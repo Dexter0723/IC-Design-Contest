@@ -1,0 +1,84 @@
+ 
+****************************************
+Report : area
+Design : CONV
+Version: Q-2019.12
+Date   : Fri Apr 24 14:08:53 2026
+****************************************
+
+Library(s) Used:
+
+    slow (File: /usr/cad/designkit/CBDK_IC_Contest_v2.5/SynopsysDC/db/slow.db)
+
+Number of ports:                         2902
+Number of nets:                         16400
+Number of cells:                        12347
+Number of combinational cells:          11839
+Number of sequential cells:               426
+Number of macros/black boxes:               0
+Number of buf/inv:                       2717
+Number of references:                     181
+
+Combinational area:             145176.924823
+Buf/Inv area:                    13821.927996
+Noncombinational area:           15081.399048
+Macro/Black Box area:                0.000000
+Net Interconnect area:         1246052.929230
+
+Total cell area:                160258.323871
+Total area:                    1406311.253100
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area              Local cell area
+                                  --------------------  ------------------------------- 
+Hierarchical cell                 Absolute     Percent  Combi-       Noncombi-   Black-
+                                  Total        Total    national     national    boxes   Design
+--------------------------------  -----------  -------  -----------  ----------  ------  --------------------------
+CONV                              160258.3239    100.0   14315.8714  15081.3990  0.0000  CONV
+add_0_root_add_0_root_add_214_I9    2642.8518      1.6    2642.8518      0.0000  0.0000  CONV_DW01_add_42
+add_0_root_add_0_root_add_215_I9    2676.7998      1.7    2676.7998      0.0000  0.0000  CONV_DW01_add_57
+add_1_root_add_0_root_add_214_I9    3396.4974      2.1    3396.4974      0.0000  0.0000  CONV_DW01_add_41
+add_1_root_add_0_root_add_215_I9    2676.7998      1.7    2676.7998      0.0000  0.0000  CONV_DW01_add_52
+add_2_root_add_0_root_add_214_I9    2646.2466      1.7    2646.2466      0.0000  0.0000  CONV_DW01_add_49
+add_2_root_add_0_root_add_215_I9    3238.6392      2.0    3238.6392      0.0000  0.0000  CONV_DW01_add_56
+add_3_root_add_0_root_add_214_I9    3564.5400      2.2    3564.5400      0.0000  0.0000  CONV_DW01_add_45
+add_3_root_add_0_root_add_215_I9    3070.5966      1.9    3070.5966      0.0000  0.0000  CONV_DW01_add_55
+add_405                              201.9906      0.1     201.9906      0.0000  0.0000  CONV_DW01_inc_3_DW01_inc_5
+add_436                              201.9906      0.1     201.9906      0.0000  0.0000  CONV_DW01_inc_2_DW01_inc_4
+add_495                              220.6620      0.1     220.6620      0.0000  0.0000  CONV_DW01_inc_1_DW01_inc_3
+add_496                              201.9906      0.1     201.9906      0.0000  0.0000  CONV_DW01_inc_0_DW01_inc_2
+add_4_root_add_0_root_add_214_I9    3612.0672      2.3    3612.0672      0.0000  0.0000  CONV_DW01_add_44
+add_4_root_add_0_root_add_215_I9    2564.7714      1.6    2564.7714      0.0000  0.0000  CONV_DW01_add_50
+add_5_root_add_0_root_add_214_I9    2683.5894      1.7    2683.5894      0.0000  0.0000  CONV_DW01_add_48
+add_5_root_add_0_root_add_215_I9    2077.6176      1.3    2077.6176      0.0000  0.0000  CONV_DW01_add_51
+add_6_root_add_0_root_add_214_I9    3287.8638      2.1    3287.8638      0.0000  0.0000  CONV_DW01_add_47
+add_6_root_add_0_root_add_215_I9    2724.3270      1.7    2724.3270      0.0000  0.0000  CONV_DW01_add_53
+add_7_root_add_0_root_add_214_I9    3102.8472      1.9    3102.8472      0.0000  0.0000  CONV_DW01_add_43
+add_7_root_add_0_root_add_215_I9    2800.7100      1.7    2800.7100      0.0000  0.0000  CONV_DW01_add_54
+gt_427                               487.1538      0.3     487.1538      0.0000  0.0000  CONV_DW_cmp_0
+mult_212                            6585.9120      4.1    6585.9120      0.0000  0.0000  CONV_DW_mult_tc_38
+mult_212_I2                         3898.9278      2.4    3898.9278      0.0000  0.0000  CONV_DW_mult_tc_41
+mult_212_I3                         7694.3143      4.8    7694.3143      0.0000  0.0000  CONV_DW_mult_tc_37
+mult_212_I4                         3778.4124      2.4    3778.4124      0.0000  0.0000  CONV_DW_mult_tc_44
+mult_212_I5                         4547.3346      2.8    4547.3346      0.0000  0.0000  CONV_DW_mult_tc_39
+mult_212_I7                         5711.7511      3.6    5711.7511      0.0000  0.0000  CONV_DW_mult_tc_40
+mult_212_I8                         5774.5549      3.6    5774.5549      0.0000  0.0000  CONV_DW_mult_tc_30
+mult_212_I9                         4292.7247      2.7    4292.7247      0.0000  0.0000  CONV_DW_mult_tc_42
+mult_213                            5827.1742      3.6    5827.1742      0.0000  0.0000  CONV_DW_mult_tc_24
+mult_213_I2                         5243.2686      3.3    5243.2686      0.0000  0.0000  CONV_DW_mult_tc_46
+mult_213_I3                         4136.5638      2.6    4136.5638      0.0000  0.0000  CONV_DW_mult_tc_52
+mult_213_I4                         3730.8852      2.3    3730.8852      0.0000  0.0000  CONV_DW_mult_tc_25
+mult_213_I5                         2389.9392      1.5    2389.9392      0.0000  0.0000  CONV_DW_mult_tc_45
+mult_213_I6                         4392.8712      2.7    4392.8712      0.0000  0.0000  CONV_DW_mult_tc_53
+mult_213_I7                         4462.4646      2.8    4462.4646      0.0000  0.0000  CONV_DW_mult_tc_48
+mult_213_I8                         4730.6538      3.0    4730.6538      0.0000  0.0000  CONV_DW_mult_tc_33
+mult_213_I9                         5010.7248      3.1    5010.7248      0.0000  0.0000  CONV_DW_mult_tc_49
+r775                                 201.9906      0.1     201.9906      0.0000  0.0000  CONV_DW01_inc_5_DW01_inc_7
+r787                                 201.9906      0.1     201.9906      0.0000  0.0000  CONV_DW01_inc_4_DW01_inc_6
+sub_286                              168.0426      0.1     168.0426      0.0000  0.0000  CONV_DW01_dec_0
+--------------------------------  -----------  -------  -----------  ----------  ------  --------------------------
+Total                                                   145176.9248  15081.3990  0.0000
+
+1
