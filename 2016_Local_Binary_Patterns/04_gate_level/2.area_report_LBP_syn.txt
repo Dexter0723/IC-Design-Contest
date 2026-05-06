@@ -1,0 +1,45 @@
+ 
+****************************************
+Report : area
+Design : LBP
+Version: Q-2019.12
+Date   : Tue May  5 18:43:27 2026
+****************************************
+
+Library(s) Used:
+
+    slow (File: /usr/cad/designkit/CBDK_IC_Contest_v2.5/SynopsysDC/db/slow.db)
+
+Number of ports:                          106
+Number of nets:                           574
+Number of cells:                          472
+Number of combinational cells:            422
+Number of sequential cells:                48
+Number of macros/black boxes:               0
+Number of buf/inv:                         70
+Number of references:                      57
+
+Combinational area:               4321.580364
+Buf/Inv area:                      665.380815
+Noncombinational area:            1563.305351
+Macro/Black Box area:                0.000000
+Net Interconnect area:           59826.963348
+
+Total cell area:                  5884.885716
+Total area:                      65711.849064
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area          Local cell area
+                                  ------------------  ---------------------------- 
+Hierarchical cell                 Absolute   Percent  Combi-     Noncombi-  Black-
+                                  Total      Total    national   national   boxes   Design
+--------------------------------  ---------  -------  ---------  ---------  ------  --------------
+LBP                               5884.8857    100.0  3880.2564  1563.3054  0.0000  LBP
+r422                               239.3334      4.1   239.3334     0.0000  0.0000  LBP_DW01_inc_0
+sub_108                            201.9906      3.4   201.9906     0.0000  0.0000  LBP_DW01_dec_0
+--------------------------------  ---------  -------  ---------  ---------  ------  --------------
+Total                                                 4321.5804  1563.3054  0.0000
+
+1
