@@ -66,7 +66,7 @@
     <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
     <td nowrap>2020 String Matching Engine</td>
     <td><img src="https://img.shields.io/badge/Rank- -red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area-160258.323871-blue"></td>
+    <td><img src="https://img.shields.io/badge/Cell_Area- -blue"></td>
     <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
   </tr>
@@ -76,7 +76,7 @@
     <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
     <td nowrap>2021 Geofence</td>
     <td><img src="https://img.shields.io/badge/Rank- -red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area-160258.323871-blue"></td>
+    <td><img src="https://img.shields.io/badge/Cell_Area- -blue"></td>
     <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
   </tr>
@@ -86,7 +86,7 @@
     <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
     <td nowrap>2022 Job Assignment Machine</td>
     <td><img src="https://img.shields.io/badge/Rank- -red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area-160258.323871-blue"></td>
+    <td><img src="https://img.shields.io/badge/Cell_Area- -blue"></td>
     <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
   </tr>
