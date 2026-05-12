@@ -55,7 +55,7 @@
   <tr>
     <td nowrap><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2019 Image_Convolutional_Circuit_Design</td>
-    <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
+    <td><img src="https://img.shields.io/badge/Rank-S-red"></td>
     <td><img src="https://img.shields.io/badge/Cell_Area-160258.323871-blue"></td>
     <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
