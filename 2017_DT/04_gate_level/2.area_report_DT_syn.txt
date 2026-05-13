@@ -1,0 +1,48 @@
+ 
+****************************************
+Report : area
+Design : DT
+Version: Q-2019.12
+Date   : Thu May 14 02:07:18 2026
+****************************************
+
+Library(s) Used:
+
+    slow (File: /usr/cad/designkit/CBDK_IC_Contest_v2.5/SynopsysDC/db/slow.db)
+
+Number of ports:                          158
+Number of nets:                           820
+Number of cells:                          625
+Number of combinational cells:            554
+Number of sequential cells:                66
+Number of macros/black boxes:               0
+Number of buf/inv:                         67
+Number of references:                      60
+
+Combinational area:               5314.559340
+Buf/Inv area:                      332.690395
+Noncombinational area:            2315.253578
+Macro/Black Box area:                0.000000
+Net Interconnect area:           81433.739044
+
+Total cell area:                  7629.812919
+Total area:                      89063.551963
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area          Local cell area
+                                  ------------------  ---------------------------- 
+Hierarchical cell                 Absolute   Percent  Combi-     Noncombi-  Black-
+                                  Total      Total    national   national   boxes   Design
+--------------------------------  ---------  -------  ---------  ---------  ------  -------------
+DT                                7629.8129    100.0  4525.2683  2315.2536  0.0000  DT
+add_128_2                          127.3050      1.7   127.3050     0.0000  0.0000  DT_DW01_inc_1
+add_141                            164.6478      2.2   164.6478     0.0000  0.0000  DT_DW01_inc_0
+r446                               130.6998      1.7   130.6998     0.0000  0.0000  DT_DW01_inc_4
+r448                               239.3334      3.1   239.3334     0.0000  0.0000  DT_DW01_inc_3
+r453                               127.3050      1.7   127.3050     0.0000  0.0000  DT_DW01_inc_2
+--------------------------------  ---------  -------  ---------  ---------  ------  -------------
+Total                                                 5314.5593  2315.2536  0.0000
+
+1

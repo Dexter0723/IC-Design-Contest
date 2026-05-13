@@ -1,0 +1,53 @@
+ 
+****************************************
+Report : power
+        -analysis_effort low
+Design : DT
+Version: Q-2019.12
+Date   : Thu May 14 02:07:18 2026
+****************************************
+
+
+Library(s) Used:
+
+    slow (File: /usr/cad/designkit/CBDK_IC_Contest_v2.5/SynopsysDC/db/slow.db)
+
+
+Operating Conditions: slow   Library: slow
+Wire Load Model Mode: top
+
+Design        Wire Load Model            Library
+------------------------------------------------
+DT                     tsmc13_wl10       slow
+
+
+Global Operating Voltage = 1.08 
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000pf
+    Time Units = 1ns
+    Dynamic Power Units = 1mW    (derived from V,C,T units)
+    Leakage Power Units = 1pW
+
+
+  Cell Internal Power  = 172.1122 uW   (67%)
+  Net Switching Power  =  83.5721 uW   (33%)
+                         ---------
+Total Dynamic Power    = 255.6842 uW  (100%)
+
+Cell Leakage Power     =   6.9829 uW
+
+
+                 Internal         Switching           Leakage            Total
+Power Group      Power            Power               Power              Power   (   %    )  Attrs
+--------------------------------------------------------------------------------------------------
+io_pad             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+memory             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+black_box          0.0000            0.0000            0.0000            0.0000  (   0.00%)
+clock_network      0.0000            0.0000            0.0000            0.0000  (   0.00%)
+register           0.1584        2.7399e-02        1.9831e+06            0.1878  (  71.50%)
+sequential         0.0000            0.0000            0.0000            0.0000  (   0.00%)
+combinational  1.3695e-02        5.6173e-02        4.9999e+06        7.4867e-02  (  28.50%)
+--------------------------------------------------------------------------------------------------
+Total              0.1721 mW     8.3572e-02 mW     6.9829e+06 pW         0.2627 mW
+1
