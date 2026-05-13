@@ -35,9 +35,9 @@
   <tr>
     <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
     <td nowrap>2017 Distance Transform</td>
-    <td><img src="https://img.shields.io/badge/Rank- -red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area- -blue"></td>
-    <td></td> <!-- 留空保持對齊 -->
+    <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
+    <td><img src="https://img.shields.io/badge/Cell_Area-7629.812919-blue"></td>
+    <td><img src="https://img.shields.io/badge/Time-1539411.911ns-blue"></td>
     <td></td> <!-- 留空保持對齊 -->
   </tr>
 
