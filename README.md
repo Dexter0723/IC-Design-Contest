@@ -45,8 +45,8 @@
   <tr>
     <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
     <td nowrap>2018 Huffman Coding</td>
-    <td><img src="https://img.shields.io/badge/Rank- -red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area- -blue"></td>
+    <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
+    <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
   </tr>
