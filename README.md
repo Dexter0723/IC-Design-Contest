@@ -63,7 +63,7 @@
   
   <!-- 2020 -->
   <tr>
-    <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
+    <td nowrap><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2020 String Matching Engine</td>
     <td><img src="https://img.shields.io/badge/Rank- -red"></td>
     <td><img src="https://img.shields.io/badge/Cell_Area- -blue"></td>
