@@ -33,7 +33,7 @@
   
   <!-- 2017 -->
   <tr>
-    <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2017 Distance Transform</td>
     <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
     <td><img src="https://img.shields.io/badge/Cell_Area-7629.812919-blue"></td>
@@ -43,7 +43,7 @@
 
   <!-- 2018 -->
   <tr>
-    <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2018 Huffman Coding</td>
     <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
     <td></td> <!-- 留空保持對齊 -->
