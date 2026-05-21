@@ -65,10 +65,10 @@
   <tr>
     <td nowrap><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2020 String Matching Engine</td>
-    <td><img src="https://img.shields.io/badge/Rank- -red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area- -blue"></td>
+    <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
     <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
+    <td><img src="https://img.shields.io/badge/Score-100-blue"></td>
   </tr>
 
   <!-- 2021 -->
