@@ -1,0 +1,53 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : SME
+Version: Q-2019.12
+Date   : Thu May 21 16:32:32 2026
+****************************************
+
+Operating Conditions: slow   Library: slow
+Wire Load Model Mode: top
+
+  Startpoint: state_reg[2]
+              (rising edge-triggered flip-flop clocked by clk)
+  Endpoint: match (output port clocked by clk)
+  Path Group: clk
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  SME                tsmc13_wl10           slow
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock clk (rise edge)                    0.00       0.00
+  clock network delay (ideal)              0.50       0.50
+  state_reg[2]/CK (DFFRX1)                 0.00       0.50 r
+  state_reg[2]/Q (DFFRX1)                  0.70       1.20 r
+  U1739/Y (AND4X2)                         0.67       1.86 r
+  U1937/Y (CLKINVX1)                       0.59       2.45 f
+  U1712/Y (OR2X1)                          0.56       3.01 f
+  U1710/Y (INVX12)                         0.67       3.68 r
+  U1720/Y (NOR2BX1)                        0.31       3.99 r
+  U1718/Y (INVXL)                          0.34       4.33 f
+  U1719/Y (INVX12)                         0.71       5.04 r
+  match (out)                              0.00       5.04 r
+  data arrival time                                   5.04
+
+  clock clk (fall edge)                   10.00      10.00
+  clock network delay (ideal)              0.50      10.50
+  clock uncertainty                       -0.10      10.40
+  output external delay                    0.00      10.40
+  data required time                                 10.40
+  -----------------------------------------------------------
+  data required time                                 10.40
+  data arrival time                                  -5.04
+  -----------------------------------------------------------
+  slack (MET)                                         5.36
+
+
+1
