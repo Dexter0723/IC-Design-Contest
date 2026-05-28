@@ -73,7 +73,7 @@
 
   <!-- 2021 -->
   <tr>
-    <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
+    <td nowrap><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2021 Geofence</td>
     <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
     <td><img src="https://img.shields.io/badge/Cell_Area-87146.213154-blue"></td>
