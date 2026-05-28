@@ -1,4 +1,4 @@
-<img width="1095" height="638" alt="image" src="https://github.com/user-attachments/assets/dfd9d214-232f-4738-b0b5-00acd2ebf0f1" /># IC-Design-Contest
+# IC-Design-Contest
 
 <table>
   <!-- 2015 -->
