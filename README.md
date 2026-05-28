@@ -86,7 +86,37 @@
     <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
     <td nowrap>2022 Job Assignment Machine</td>
     <td><img src="https://img.shields.io/badge/Rank- -red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area- -blue"></td>
+    <td></td> <!-- 留空保持對齊 -->
+    <td></td> <!-- 留空保持對齊 -->
+    <td></td> <!-- 留空保持對齊 -->
+  </tr>
+  
+  <!-- 2023 -->
+  <tr>
+    <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
+    <td nowrap>2023 Laser Treatment</td>
+    <td><img src="https://img.shields.io/badge/Rank- -red"></td>
+    <td></td> <!-- 留空保持對齊 -->
+    <td></td> <!-- 留空保持對齊 -->
+    <td></td> <!-- 留空保持對齊 -->
+  </tr>
+  
+  <!-- 2024 -->
+  <tr>
+    <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
+    <td nowrap>2024 Bicubic Resize Engine</td>
+    <td><img src="https://img.shields.io/badge/Rank- -red"></td>
+    <td></td> <!-- 留空保持對齊 -->
+    <td></td> <!-- 留空保持對齊 -->
+    <td></td> <!-- 留空保持對齊 -->
+  </tr>
+  
+  <!-- 2025 -->
+  <tr>
+    <td nowrap><img src="https://img.shields.io/badge/Status-Todo-lightgrey"></td>
+    <td nowrap>2025 Convex hull</td>
+    <td><img src="https://img.shields.io/badge/Rank- -red"></td>
+    <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
   </tr>
