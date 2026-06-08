@@ -86,7 +86,7 @@
     <td nowrap><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2022 Job Assignment Machine</td>
     <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area-7351.439321-blue"></td>
+    <td><img src="https://img.shields.io/badge/Cell_Area-7351.439321 um^2 -blue"></td>
     <td><img src="https://img.shields.io/badge/Time-765250 cycle-blue"></td>
     <td></td> <!-- 留空保持對齊 -->
   </tr>
