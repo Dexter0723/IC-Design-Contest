@@ -16,7 +16,7 @@
     <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2015 指定集合內覆蓋之元素個數計數器</td>
     <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area-4224.828560 um<sup>2</sup>-blue"></td>
+    <td><img src="https://img.shields.io/badge/Cell_Area-4224.828560 um²-blue"></td>
     <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
   </tr>
@@ -26,7 +26,7 @@
     <td nowrap><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2016 Local Binary Pattern</td>
     <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area-5884.885716 um<sup>2</sup>-blue"></td>
+    <td><img src="https://img.shields.io/badge/Cell_Area-5884.885716 um²-blue"></td>
     <td><img src="https://img.shields.io/badge/Time-1612.66 ns-blue"></td>
     <td><img src="https://img.shields.io/badge/Score-9490319.79876-blue"></td>
   </tr>
@@ -36,7 +36,7 @@
     <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2017 Distance Transform</td>
     <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area-7629.812919 um<sup>2</sup>-blue"></td>
+    <td><img src="https://img.shields.io/badge/Cell_Area-7629.812919 um²-blue"></td>
     <td><img src="https://img.shields.io/badge/Time-1539411.911 ns-blue"></td>
     <td></td> <!-- 留空保持對齊 -->
   </tr>
@@ -56,7 +56,7 @@
     <td nowrap><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2019 Image_Convolutional_Circuit_Design</td>
     <td><img src="https://img.shields.io/badge/Rank-S-red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area-160258.323871 um<sup>2</sup>-blue"></td>
+    <td><img src="https://img.shields.io/badge/Cell_Area-160258.323871 um²-blue"></td>
     <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
   </tr>
@@ -76,7 +76,7 @@
     <td nowrap><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2021 Geofence</td>
     <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area-87146.213154 um<sup>2</sup>-blue"></td>
+    <td><img src="https://img.shields.io/badge/Cell_Area-87146.213154 um²-blue"></td>
     <td></td> <!-- 留空保持對齊 -->
     <td></td> <!-- 留空保持對齊 -->
   </tr>
@@ -86,7 +86,7 @@
     <td nowrap><img src="https://img.shields.io/badge/Status-Pass-brightgreen"></td>
     <td nowrap>2022 Job Assignment Machine</td>
     <td><img src="https://img.shields.io/badge/Rank-A-red"></td>
-    <td><img src="https://img.shields.io/badge/Cell_Area-7351.439321 um<sup>2</sup> -blue"></td>
+    <td><img src="https://img.shields.io/badge/Cell_Area-7351.439321 um² -blue"></td>
     <td><img src="https://img.shields.io/badge/Time-765250 cycle-blue"></td>
     <td></td> <!-- 留空保持對齊 -->
   </tr>
